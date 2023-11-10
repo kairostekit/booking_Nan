@@ -50,7 +50,6 @@ if ($dataroom_room['room_type'] == 1) {
     } else {
 
     }
-    die();
 }
 
 
